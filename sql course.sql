@@ -1,0 +1,1 @@
+SELECT * FROM teacher_recordes.city;
